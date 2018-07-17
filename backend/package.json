@@ -1,0 +1,16 @@
+{
+  "name": "workshop-test-backend",
+  "version": "0.1.0",
+  "main": "index.js",
+  "private": true,
+  "dependencies": {
+    "express": "^4.16.3"
+  },
+  "devDependencies": {
+    "jest": "^23.4.1"
+  },
+  "scripts": {
+    "test": "jest",
+    "dev": "node server.js"
+  }
+}
